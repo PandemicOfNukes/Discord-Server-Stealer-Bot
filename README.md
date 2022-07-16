@@ -1,6 +1,6 @@
 # Discord-Server-Stealer-Bot
 
-This simple Discord Bot is what I call a Discord Server Stealer. Basically it takes advantage of Discord Servers that are Roles and Permissions that are badly configured.
+This simple Discord Bot is what I call a Discord Server Stealer. Basically it takes advantage of Discord Servers that the Roles and Permissions settings that are badly configured.
 
 It works by elevating the message author (the attacker) to the specified role.
 
